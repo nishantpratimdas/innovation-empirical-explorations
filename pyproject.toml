@@ -1,0 +1,17 @@
+[project]
+name = "innovation-empirical-explorations"
+version = "0.1.0"
+description = "Companion code for the paper"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "dotenv>=0.9.9",
+    "matplotlib>=3.10.8",
+    "nltk>=3.9.4",
+    "numpy>=2.4.4",
+    "pandas>=3.0.2",
+    "requests>=2.33.1",
+    "scipy>=1.17.1",
+    "sentence-transformers>=5.3.0",
+    "tqdm>=4.67.3",
+]
